@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "comcigan-parser": "^1.0.0",
-    "luxon": "^3.4.4",
-    "uuid": "^9.0.1"
-  }
-}
